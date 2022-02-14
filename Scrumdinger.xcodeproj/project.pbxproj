@@ -17,6 +17,7 @@
 		AE49D18F27948D7E004489CD /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE49D18E27948D7E004489CD /* TrailingIconLabelStyle.swift */; };
 		AE49D1912794BDDC004489CD /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE49D1902794BDDC004489CD /* ScrumsView.swift */; };
 		AE9B86EF279B57E500FA0BBD /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9B86EE279B57E500FA0BBD /* DetailView.swift */; };
+		AEE041D027BAFB9400CD504F /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE041CF27BAFB9400CD504F /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		AE49D18E27948D7E004489CD /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		AE49D1902794BDDC004489CD /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		AE9B86EE279B57E500FA0BBD /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		AEE041CF27BAFB9400CD504F /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				AE201FCA278B90FE0029E528 /* MeetingView.swift */,
 				AE201FCC278B90FF0029E528 /* Assets.xcassets */,
 				AE201FCE278B90FF0029E528 /* Preview Content */,
+				AEE041CF27BAFB9400CD504F /* DetailEditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				AE49D18B279371FD004489CD /* DailyScrum.swift in Sources */,
 				AE9B86EF279B57E500FA0BBD /* DetailView.swift in Sources */,
+				AEE041D027BAFB9400CD504F /* DetailEditView.swift in Sources */,
 				AE49D18F27948D7E004489CD /* TrailingIconLabelStyle.swift in Sources */,
 				AE49D18927936BD1004489CD /* Theme.swift in Sources */,
 				AE49D1912794BDDC004489CD /* ScrumsView.swift in Sources */,
