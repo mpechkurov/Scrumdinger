@@ -18,6 +18,7 @@
 		AE49D1912794BDDC004489CD /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE49D1902794BDDC004489CD /* ScrumsView.swift */; };
 		AE9B86EF279B57E500FA0BBD /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9B86EE279B57E500FA0BBD /* DetailView.swift */; };
 		AEE041D027BAFB9400CD504F /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE041CF27BAFB9400CD504F /* DetailEditView.swift */; };
+		AEE041D227C1A09100CD504F /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE041D127C1A09100CD504F /* ThemeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		AE49D1902794BDDC004489CD /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		AE9B86EE279B57E500FA0BBD /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		AEE041CF27BAFB9400CD504F /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
+		AEE041D127C1A09100CD504F /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				AE201FCC278B90FF0029E528 /* Assets.xcassets */,
 				AE201FCE278B90FF0029E528 /* Preview Content */,
 				AEE041CF27BAFB9400CD504F /* DetailEditView.swift */,
+				AEE041D127C1A09100CD504F /* ThemeView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				AE49D1912794BDDC004489CD /* ScrumsView.swift in Sources */,
 				AE201FCB278B90FE0029E528 /* MeetingView.swift in Sources */,
 				AE201FC9278B90FE0029E528 /* ScrumdingerApp.swift in Sources */,
+				AEE041D227C1A09100CD504F /* ThemeView.swift in Sources */,
 				AE49D18D27938085004489CD /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
