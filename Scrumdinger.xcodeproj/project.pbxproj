@@ -19,6 +19,7 @@
 		AE9B86EF279B57E500FA0BBD /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9B86EE279B57E500FA0BBD /* DetailView.swift */; };
 		AEE041D027BAFB9400CD504F /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE041CF27BAFB9400CD504F /* DetailEditView.swift */; };
 		AEE041D227C1A09100CD504F /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE041D127C1A09100CD504F /* ThemeView.swift */; };
+		AEE041D427C1A1F800CD504F /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE041D327C1A1F800CD504F /* ThemePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		AE9B86EE279B57E500FA0BBD /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		AEE041CF27BAFB9400CD504F /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		AEE041D127C1A09100CD504F /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
+		AEE041D327C1A1F800CD504F /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				AE201FCE278B90FF0029E528 /* Preview Content */,
 				AEE041CF27BAFB9400CD504F /* DetailEditView.swift */,
 				AEE041D127C1A09100CD504F /* ThemeView.swift */,
+				AEE041D327C1A1F800CD504F /* ThemePicker.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEE041D427C1A1F800CD504F /* ThemePicker.swift in Sources */,
 				AE49D18B279371FD004489CD /* DailyScrum.swift in Sources */,
 				AE9B86EF279B57E500FA0BBD /* DetailView.swift in Sources */,
 				AEE041D027BAFB9400CD504F /* DetailEditView.swift in Sources */,
